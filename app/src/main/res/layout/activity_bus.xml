@@ -9,7 +9,7 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="BUS"
+        android:text="SIDIK"
         android:textSize="24sp"
         android:fontFamily="@font/balooregular"
         app:layout_constraintBottom_toBottomOf="parent"
