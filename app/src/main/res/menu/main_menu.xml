@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+
+
+        <item
+            android:id="@+id/nav_home"
+            android:title="Home"
+            android:icon="@drawable/ic_home_24px"
+            />
+
+        <item
+            android:id="@+id/nav_cycle"
+            android:title="Cycling"
+            android:icon="@drawable/cycling"
+            />
+
+        <item
+            android:id="@+id/nav_bus"
+            android:title="Bus"
+            android:icon="@drawable/bus"
+            />
+
+        <item
+            android:id="@+id/nav_plane"
+            android:title="Plane"
+            android:icon="@drawable/airplane"
+            />
+
+
+    </group>
+
+
+
+
+        <item
+            android:title="Profile">
+
+            <menu>
+
+                <group android:checkableBehavior="single">
+                    <item
+                        android:id="@+id/nav_login"
+                        android:title="Login"
+                        android:icon="@drawable/ic_mobile_screen_share_24px"
+                        />
+
+                    <item
+                        android:id="@+id/nav_profile"
+                        android:title="Profile"
+                        android:icon="@drawable/ic_perm_identity_24px"
+                        />
+
+                    <item
+                        android:id="@+id/nav_logout"
+                        android:title="Logout"
+                        android:icon="@drawable/ic_power_settings_new_24px"
+                        />
+                </group>
+            </menu>
+
+        </item>
+
+
+
+    <item android:title="Communicate">
+
+
+        <menu>
+
+            <item
+                android:id="@+id/nav_share"
+                android:title="Share"
+                android:icon="@drawable/ic_share_24px"
+                />
+
+            <item
+                android:id="@+id/nav_rate"
+                android:title="Rate Us"
+                android:icon="@drawable/ic_rate_review_24px"
+                />
+
+        </menu>
+
+
+    </item>
+
+</menu>
