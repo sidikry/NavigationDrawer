@@ -4,7 +4,7 @@
     android:orientation="vertical"
     android:layout_width="match_parent"
     android:layout_height="200dp"
-    android:background="#FFC60C"
+    android:background="#7B4D7B"
     android:padding="20dp"
     android:gravity="bottom">
 
@@ -19,6 +19,7 @@
         android:layout_height="wrap_content"
         android:text="Universitas Amikom Yogyakarta"
         android:fontFamily="@font/balooregular"
+        android:textColor="#ffffff"
         android:textSize="24sp"
         />
 
@@ -26,6 +27,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="www.amikom.ac.id"
+        android:textColor="#ffffff"
         android:fontFamily="@font/aclonica"
         android:textSize="14sp"
         />
