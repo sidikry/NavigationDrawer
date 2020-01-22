@@ -11,13 +11,13 @@
     <ImageView
         android:layout_width="75dp"
         android:layout_height="75dp"
-        android:src="@drawable/cycling"
+        android:src="@drawable/logo_amikom"
         />
 
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Travelling"
+        android:text="Universitas Amikom Yogyakarta"
         android:fontFamily="@font/balooregular"
         android:textSize="24sp"
         />
@@ -25,7 +25,7 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="www.fulltime.com"
+        android:text="www.amikom.ac.id"
         android:fontFamily="@font/aclonica"
         android:textSize="14sp"
         />
